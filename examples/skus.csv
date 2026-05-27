@@ -1,0 +1,4 @@
+sku,name,htsCode,purchaseCostCny,salePriceUsd,weightKg,lengthCm,widthCm,heightCm,tariffRate,section301Rate,antiDumpingRate,otherDutyRate,vatRate,logisticsCostUsd,platformFeeRate,fbaFeeUsd,storageCostMonthlyUsd,adRate,returnRate,packagingQcCny,domesticFreightCny
+CN-US-BAG-001,Compression packing cubes,4202.92.91.00,42,32.99,0.45,30,22,6,12,25,0,0,0,5.8,15,5.2,0.09,10,5,2.5,1.8
+CN-EU-LIGHT-002,Rechargeable desk light,9405.42.84.90,58,31.99,0.62,18,8,8,6,0,0,0,20,5.9,15,5.9,0.04,14,8,3.2,2.1
+CN-BR-KITCH-003,Silicone kitchen mat set,3924.10.40.00,26,98.9,0.36,24,18,3,22,0,0,0,18,18,16,22,0.27,13,8,1.8,1.2
