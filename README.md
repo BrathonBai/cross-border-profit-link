@@ -6,6 +6,24 @@
 
 它不是单纯的成本计算器，而是一个“值不值得卖”的机会筛选工作台。
 
+## 截图
+
+### 单品利润计算
+
+![单品利润计算](docs/screenshots/calculator.png)
+
+### 批量 SKU 雷达
+
+![批量 SKU 雷达](docs/screenshots/batch.png)
+
+### 目标市场参数
+
+![目标市场参数](docs/screenshots/settings.png)
+
+### 物流仓储黄页
+
+![物流仓储黄页](docs/screenshots/logistics-directory.png)
+
 ## 核心能力
 
 - **单品利润计算**：输入采购价、售价、重量尺寸、平台费、广告、退货等数据，计算净利润、净利率、ROI、盈亏平衡价。
